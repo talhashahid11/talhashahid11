@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Web Dev
+- 🔭 I’m currently working on Web Dev.
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on others
 - 🤔 I’m looking for help with github users
